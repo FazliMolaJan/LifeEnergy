@@ -7,13 +7,13 @@ Specially, we also integrate a new video effect redering engine into this app. T
 It is built five years ago, and therefore some functions may be deprecated.
 
 ## Platform Technical Details
-The rendering procedure of video effect:
+The system architecture:
 <div align=center><img width="80%" height="80%" src="figure/111.png"/></div>
 
-The rendering procedure of video effect:
+Specific technical details:
 <div align=center><img width="80%" height="80%" src="figure/222.png"/></div>
 
-The rendering procedure of video effect:
+The energy promoting mechanism:
 <div align=center><img width="80%" height="80%" src="figure/333.png"/></div>
 
 ## Rendering Engine Technical Details
@@ -25,14 +25,6 @@ The animation resources for “lattice world” effect (in ./effects folder, @he
 
 
 ## Demo
-<div align=center><img width="80%" height="80%" src="figure/444.png"/></div>
-
-<div align=center><img width="80%" height="80%" src="figure/555.png"/></div>
-
-<div align=center><img width="80%" height="80%" src="figure/666.png"/></div>
-
-<div align=center><img width="80%" height="80%" src="figure/777.png"/></div>
-
 You also can watch the youtube video for this engine:
 
 https://www.youtube.com/watch?v=1cEIneTFN0U
@@ -44,6 +36,17 @@ https://www.youtube.com/watch?v=g1fMsfgPgxU
 https://www.youtube.com/watch?v=iM-MYYpxxsI
 
 <div align=center><img width="80%" height="80%" src="figure/1.png"/></div>
+
 <div align=center><img width="80%" height="80%" src="figure/2.png"/></div>
+
 <div align=center><img width="80%" height="80%" src="figure/3.png"/></div>
+
+<div align=center><img width="80%" height="80%" src="figure/444.png"/></div>
+
+<div align=center><img width="80%" height="80%" src="figure/555.png"/></div>
+
+<div align=center><img width="80%" height="80%" src="figure/666.png"/></div>
+
+<div align=center><img width="80%" height="80%" src="figure/777.png"/></div>
+
 
