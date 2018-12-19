@@ -1,5 +1,5 @@
 # LifeEnergy
-This is an android social network app for video sharing. This app includes several modules to make it self-contained, e.g., user generated content(UGC), personal video recommendation, cross-platform sharing and an energy promoting mechanism.
+This is an android social network android app for video sharing. This app includes several modules to make it self-contained, e.g., user generated content(UGC), personal video recommendation, cross-platform sharing and an energy promoting mechanism.
 
 Specially, we also integrate a new video effect redering engine into this app. The rendering engine utilizes FFMPEG C library to decode the video to raw images and encode the filtered images to the new video, and exposes the C interfaces to JAVA through Java Native Interface (JNI). This ensures sufficiently fast video processing performance. We also design several effects for image filtering and video animation. Details can be seen from our another repository (https://github.com/QibingLee/VideoEffectRendering).
 
